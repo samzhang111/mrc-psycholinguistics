@@ -2,4 +2,6 @@ This is a modern port of the MRC Psycholinguistics Database Machine Usable Dicti
 
 Requirements: SQLAlchemy (0.9.3), Python 2.7.
 
-python extract.py
+To run: python extract.py
+
+License: Creative Commons Attribution-NonCommericial-ShareAlike 3.0
